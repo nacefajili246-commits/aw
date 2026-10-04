@@ -1,0 +1,21 @@
+{
+  "//": "Copyright (c) 2026 iaf1. Completely free, NOT for sale. Provided AS IS with no warranty; the owner is not liable for any damages. See LICENSE.md.",
+  "name": "free-ticket-bot",
+  "version": "1.0.0",
+  "description": "بوت ديسكورد لنظام التذاكر (Tickets) مع سجل ترانسكريبت كامل - أوامر Slash",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "author": "iaf1",
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

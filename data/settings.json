@@ -1,0 +1,17 @@
+{
+  "1539866771429789849": {
+    "logChannelId": "1549026631245627432",
+    "ticketCounter": 1,
+    "ticketTypes": [
+      {
+        "id": "ea2e0b0d-83db-4e85-ad31-ee4e8421df6c",
+        "label": "1",
+        "emoji": "👍",
+        "description": "1",
+        "categoryId": "1553927695891693648",
+        "supportRoleId": "1549137028363583630"
+      }
+    ],
+    "openTickets": {}
+  }
+}
